@@ -1,0 +1,12 @@
+{
+  "name": "major-project-using-tailwind",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "tailwindcss -i ./src/style.css -o ./dist/output.css --watch"
+  },
+  "author": "",
+  "license": "ISC"
+}
