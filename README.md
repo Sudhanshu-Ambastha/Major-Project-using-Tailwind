@@ -11,7 +11,7 @@ inside `tailwindcss.config.js` in content add below one:-
 ```
 content: ["./dist/index.html"],
 ```
-then create `src folder` and create file with desired name here i used style.css and add this in it:-
+then create `src folder` and create file with desired name here i used `style.css` and add this in it:-
 ```
 @tailwind base;
 @tailwind components;
